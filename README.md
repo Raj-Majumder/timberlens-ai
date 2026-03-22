@@ -1,7 +1,9 @@
 # TimberLens AI — Multi-Agent Business Intelligence System
 
-> A production multi-agent AI system built for **TimberLens Creations LLC** — a bespoke hardwood guitar stand workshop in Richardson, TX. Designed, built, and validated end-to-end by the business owner as a live testbed for agentic AI architecture.
+> A production multi-agent AI system built for TimberLens Creations LLC — a bespoke hardwood guitar stand workshop in Richardson, TX. Designed, built, and validated end-to-end by the business owner as a live testbed for agentic AI architecture.
 
+
+Portfolio note: This repository contains the full architecture and source code. The system runs against private business data (Excel financials) and a local reference CLI (Chub) that are not included in this repo. See the Setup section for how to adapt it to your own data. This project was built to demonstrate that the same agentic AI architecture patterns used in enterprise AI strategy can be designed, validated, and operated at small-business scale — with real data, real outputs, and real business decisions as the test cases.
 ---
 
 ## What it does
@@ -197,7 +199,7 @@ Anthropic API key
 
 ### Installation
 ```bash
-git clone https://github.com/[your-username]/timberlens-ai.git
+git clone https://github.com/Raj-Majumder/timberlens-ai.git
 cd timberlens-ai
 pip install anthropic pandas fpdf markdown python-dotenv
 ```
@@ -222,10 +224,9 @@ SKILLS_PATH=/path/to/your/Skills/
 
 ## About TimberLens Creations
 
-TimberLens Creations LLC is a bespoke woodworking business based in Richardson, TX (DFW), specialising in handcrafted solid hardwood guitar stands in Walnut and Cherry. The business operates at a 59.8% blended profit margin with a target of 240 units/year.
+TimberLens Creations LLC is a bespoke woodworking business based in Richardson, TX (DFW), specialising in handcrafted solid hardwood guitar stands in Walnut and Cherry. 
 
-This AI system was built by the owner to demonstrate that the same agentic architecture patterns used in enterprise AI strategy can be designed, validated, and operated at small-business scale — with real data, real outputs, and real business decisions as the test cases.
+This AI system was built by the owner: Rajarshi (Raj) Majumder to demonstrate that the same agentic architecture patterns used in enterprise AI strategy can be designed, validated, and operated at small-business scale — with real data, real outputs, and real business decisions as the test cases.
 
 ---
 
-*Built with the Anthropic API · Richardson, TX · FY2026*
