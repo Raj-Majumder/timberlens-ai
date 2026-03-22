@@ -2,8 +2,8 @@
 
 > A production multi-agent AI system built for TimberLens Creations LLC — a bespoke hardwood guitar stand workshop in Richardson, TX. Designed, built, and validated end-to-end by the business owner as a live testbed for agentic AI architecture.
 
+> Portfolio note: This repository contains the full architecture and source code. The system runs against private business data (Excel financials) and a local reference CLI (Chub) that are not included in this repo. See the Setup section for how to adapt it to your own data. This project was built to demonstrate that the same agentic AI architecture patterns used in enterprise AI strategy can be designed, validated, and operated at small-business scale — with real data, real outputs, and real business decisions as the test cases.
 
-Portfolio note: This repository contains the full architecture and source code. The system runs against private business data (Excel financials) and a local reference CLI (Chub) that are not included in this repo. See the Setup section for how to adapt it to your own data. This project was built to demonstrate that the same agentic AI architecture patterns used in enterprise AI strategy can be designed, validated, and operated at small-business scale — with real data, real outputs, and real business decisions as the test cases.
 ---
 
 ## What it does
